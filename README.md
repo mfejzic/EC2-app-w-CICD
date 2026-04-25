@@ -39,11 +39,6 @@ This model provisions an automated CI/CD pipeline using GitHub Actions to deploy
 - Python Flask web application
 - Code validation through CI workflows
 
-### 🗄️ Database
-- PostgreSQL
-- JDBC connectivity
-- Relational schema for message storage
-
 ### 🔐 Security
 - Secure SSH-based EC2 access configuration
 - Secrets management through GitHub Actions
